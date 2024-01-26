@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>assets/a.png</file>
+        <file>assets/b.png</file>
+        <file>assets/back.png</file>
+        <file>assets/backgroundff.png</file>
+        <file>assets/backgroundlogin.png</file>
+        <file>assets/cam.png</file>
+        <file>assets/DHT.h</file>
+        <file>assets/log.png</file>
+        <file>assets/logf.png</file>
+        <file>assets/logo.png</file>
+        <file>assets/logoo.png</file>
+        <file>assets/nice.png</file>
+        <file>assets/nice1.png</file>
+        <file>assets/nice12.png</file>
+        <file>assets/nice122.png</file>
+        <file>assets/nice2.png</file>
+        <file>assets/po.png</file>
+        <file>assets/scroll.png</file>
+        <file>assets/welcome.jpg</file>
+        <file>assets/welcome.png</file>
+        <file>components/Choix.qml</file>
+        <file>components/header.qml</file>
+        <file>components/Header1.qml</file>
+        <file>components/Options.qml</file>
+        <file>fonts/CooperBlackRegular.ttf</file>
+        <file>fonts/telegrafico.ttf</file>
+        <file>screens/CameraPage.qml</file>
+        <file>screens/Login.qml</file>
+        <file>screens/TemperaturePage.qml</file>
+        <file>screens/Test.qml</file>
+    </qresource>
+</RCC>
